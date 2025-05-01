@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 # Boston-House-Prediction
-=======
+
 # Boston Housing Prediction Analysis - Regression
 
 # Dataset Information
